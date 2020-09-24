@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /* print Fahrenheit-Celsius table */
-main()
+int main()
 {
   printf("hello world.");
+  return 0;
 };
