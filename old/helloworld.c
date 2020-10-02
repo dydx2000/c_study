@@ -4,5 +4,5 @@
 /* print Fahrenheit-Celsius table */
 main()
 {
-  printf("中文.");
+  printf("中文hello.");
 };
